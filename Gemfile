@@ -1,5 +1,5 @@
 source "http://rubygems.org"
-ruby "2.6.2"
+ruby "2.6.6"
 
 gemspec
 gem 'nokogiri', '~> 1.8.1' # >= 1.7 is incompatible with Ruby 2.0
